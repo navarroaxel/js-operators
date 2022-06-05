@@ -1,0 +1,1 @@
+https://api.belo.app/public/price

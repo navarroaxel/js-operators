@@ -1,0 +1,11 @@
+{
+  "name": "js-operators",
+  "version": "0.1.0",
+  "description": "JavaScript operators and async code examples",
+  "main": "async.js",
+  "scripts": {
+    "test": "node --test intl.test.mjs"
+  },
+  "author": "Axel Navarro (navarroaxel@gmail.com)",
+  "license": "ISC"
+}
